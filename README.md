@@ -1,4 +1,4 @@
-# Felwinter
+# Felwinter Network Controller
 
 # CAPABILITES
 - Visualize Local Network Traffic
